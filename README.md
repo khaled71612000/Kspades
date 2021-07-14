@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Khaled Elsayed
-- 👀 I’m interested in developing and problem solving
-- 🌱 I’m currently learning flutter
-- 📫 How to reach me phone +20 114 418 1878 or kspades666@Gmail.com
+I am a skilled developer with years of experience and a passionfor what I do. I've created a lot of projects. I have received greatuser evaluations for design and efficiency, and I also have atalent for coming up with elegant solutions in the shortestperiod of time.
+- 📫 How to reach me phone +20 114 418 1878 or khaled71612000@gmail.com
